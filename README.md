@@ -1,5 +1,5 @@
 Descrição
-Componente de preview para ESP (visualização de elementos HUD) desenhado com ImGui/DirectX — projetado apenas como componente de interface para fins educacionais e de desenvolvimento. Este repositório demonstra como desenhar um preview local (caixas, linha para jogador, barra de vida, arma) dentro de um overlay ImGui, para ajustar estilos e configurações de UI sem aceder memória ou integrar funcionalidades de jogo reais.
+Componente de preview para ESP (visualização de elementos HUD) desenhado com ImGui/DirectX — projetado apenas como componente de interface para fins educacionais e de desenvolvimento. Este repositório demonstra como desenhar um preview local (caixas, linha para jogador, barra de vida, arma) dentro de um overlay ImGui, para ajustar estilos e configurações de UI
 
 Aviso legal / Ético
 Este projeto e a amostra de código são para estudo, design de UI e integrações legítimas (testes em ambientes controlados, desenvolvimento de ferramentas autorizadas). Não use este código para trapacear em servidores online, burlar regras de jogo ou aceder sistemas sem permissão expressa. O autor e contribuidores recusam qualquer uso malicioso.
@@ -25,6 +25,9 @@ https://github.com/carlgwastaken/Overlay/tree/master
 Requisitos (desenvolvimento)
 
 C++17 (ou superior) — compilador (g++ / MSVC / clang)
+<img width="426" height="514" alt="imagePreview" src="https://github.com/user-attachments/assets/3fe3b3b6-7085-419e-af7d-4025f4294f62" />
+
+
 
 ImGui (v1.XX) integrado ao projeto
 
