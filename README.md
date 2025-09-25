@@ -30,3 +30,9 @@ ImGui (v1.XX) integrado ao projeto
 
 Backend/renderer compatível (ex.: DirectX11 + ImGui_ImplDX11 + ImGui_ImplWin32) — o preview usa ImDrawList e funções ImGui
 
+
+
+mkdir C:\path\to\repo\images
+
+
+Copy-Item "C:\Users\igdahora\Downloads\imagePreview.png" "C:\path\to\repo\images\imagePreview.png"
